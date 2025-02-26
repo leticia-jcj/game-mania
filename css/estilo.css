@@ -58,6 +58,15 @@ footer p {
     padding: 10px;
 }
 
+.link-footer {
+    text-decoration: none;
+    color: #198754; 
+}
+
+a:hover .link-footer {
+    color: #0d6efd;
+}
+
 /*Botão Voltar topo*/
 #voltar-topo {
     position: fixed;
